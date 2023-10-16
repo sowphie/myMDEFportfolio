@@ -827,7 +827,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.6) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -870,7 +870,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.6) !important;
   border-radius: 4px !important;
 }
 .cid-tSvs2GTx5E .nav-item:focus,
@@ -935,7 +935,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tSvs2GTx5E .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 2.3rem);
   }
 }
 .cid-tSvs2GTx5E .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1199,8 +1199,8 @@ a {
     border-radius: 1.5rem;
     background: #ffffff;
     opacity: 1;
-    border-color: rgba(255, 255, 255, 0.8) !important;
-    background: rgba(255, 255, 255, 0.8) !important;
+    border-color: rgba(255, 255, 255, 0.6) !important;
+    background: rgba(255, 255, 255, 0.6) !important;
     backdrop-filter: blur(8px);
     border-radius: 4px !important;
   }
@@ -1533,7 +1533,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.6) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -1576,7 +1576,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.6) !important;
   border-radius: 4px !important;
 }
 .cid-tSvrRQCdU1 .nav-item:focus,
@@ -1641,7 +1641,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tSvrRQCdU1 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 2.3rem);
   }
 }
 .cid-tSvrRQCdU1 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1905,8 +1905,8 @@ a {
     border-radius: 1.5rem;
     background: #ffffff;
     opacity: 1;
-    border-color: rgba(255, 255, 255, 0.8) !important;
-    background: rgba(255, 255, 255, 0.8) !important;
+    border-color: rgba(255, 255, 255, 0.6) !important;
+    background: rgba(255, 255, 255, 0.6) !important;
     backdrop-filter: blur(8px);
     border-radius: 4px !important;
   }
@@ -2416,7 +2416,7 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.6) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -2459,7 +2459,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.8) !important;
+  background: rgba(255, 255, 255, 0.6) !important;
   border-radius: 4px !important;
 }
 .cid-tSvrIMRhHE .nav-item:focus,
@@ -2524,7 +2524,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tSvrIMRhHE .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 2.3rem);
   }
 }
 .cid-tSvrIMRhHE .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2788,8 +2788,8 @@ a {
     border-radius: 1.5rem;
     background: #ffffff;
     opacity: 1;
-    border-color: rgba(255, 255, 255, 0.8) !important;
-    background: rgba(255, 255, 255, 0.8) !important;
+    border-color: rgba(255, 255, 255, 0.6) !important;
+    background: rgba(255, 255, 255, 0.6) !important;
     backdrop-filter: blur(8px);
     border-radius: 4px !important;
   }
