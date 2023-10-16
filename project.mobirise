@@ -2918,10 +2918,10 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#ffd7ef"
+              "color": "#ffaac7"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffd7ef"
+              "color": "#ffaac7"
             }
           },
           "_name": "article11",
@@ -2966,7 +2966,7 @@
               "flex-direction": "row-reverse"
             },
             ".mbr-description": {
-              "color": "#ffd7ef"
+              "color": "#ffaac7"
             }
           },
           "_name": "image01",
@@ -3019,7 +3019,7 @@
               "background": "@wrapBgColor"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffd7ef",
+              "color": "#ffaac7",
               "text-align": "left"
             },
             ".card-title, .card-box": {
@@ -3027,7 +3027,7 @@
               "color": "#000000"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffd7ef"
+              "color": "#ffaac7"
             }
           },
           "_name": "article08",
@@ -3102,14 +3102,14 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#ffd7ef"
+              "color": "#ffaac7"
             },
             ".mbr-text": {
               "color": "#000000"
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left",
-              "color": "#ffd7ef"
+              "color": "#ffaac7"
             }
           },
           "_name": "features024",
@@ -3174,10 +3174,10 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#ffd7ef"
+              "color": "#ffaac7"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#ffd7ef"
+              "color": "#ffaac7"
             }
           },
           "_name": "article04",
