@@ -4493,7 +4493,7 @@ a {
 }
 .cid-tTgYjh25Ub {
   padding-top: 0rem;
-  padding-bottom: 8rem;
+  padding-bottom: 0rem;
   background-color: #260a30;
 }
 .cid-tTgYjh25Ub .mbr-fallback-image.disabled {
@@ -4536,15 +4536,15 @@ a {
 .cid-tTgYjh25Ub .mbr-section-btn {
   color: #ffd7ef;
 }
-.cid-tTsaWVBPZo {
+.cid-tTCpWi7NW5 {
   padding-top: 8rem;
   padding-bottom: 8rem;
   background-color: #260a30;
 }
-.cid-tTsaWVBPZo .mbr-fallback-image.disabled {
+.cid-tTCpWi7NW5 .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tTsaWVBPZo .mbr-fallback-image {
+.cid-tTCpWi7NW5 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4553,31 +4553,68 @@ a {
   position: absolute;
   top: 0;
 }
-@media (max-width: 991px) {
-  .cid-tTsaWVBPZo .image-wrapper {
-    margin-bottom: 1rem;
+.cid-tTCpWi7NW5 .card-wrapper {
+  overflow: hidden;
+  background: #ffd7ef;
+}
+.cid-tTCpWi7NW5 .text-wrapper {
+  padding: 4rem 3rem;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-tTCpWi7NW5 .text-wrapper {
+    padding: 2.25rem;
   }
 }
-.cid-tTsaWVBPZo .row {
+@media (max-width: 767px) {
+  .cid-tTCpWi7NW5 .text-wrapper {
+    padding: 1.5rem;
+  }
+}
+.cid-tTCpWi7NW5 .row {
+  align-items: center;
+  margin-right: -1rem;
+  margin-left: -1rem;
+}
+.cid-tTCpWi7NW5 .row {
   flex-direction: row-reverse;
 }
-.cid-tTsaWVBPZo .row {
-  align-items: center;
+.cid-tTCpWi7NW5 .image-wrapper {
+  padding: 0 1rem;
 }
-@media (max-width: 991px) {
-  .cid-tTsaWVBPZo .image-wrapper {
-    padding: 1rem;
+.cid-tTCpWi7NW5 img,
+.cid-tTCpWi7NW5 .image-wrapper {
+  height: 600px;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-tTCpWi7NW5 img,
+  .cid-tTCpWi7NW5 .image-wrapper {
+    max-height: 350px;
   }
 }
-@media (min-width: 992px) {
-  .cid-tTsaWVBPZo .text-wrapper {
-    padding: 0 2rem;
-  }
+.cid-tTCpWi7NW5 .mbr-section-title {
+  color: #260a30;
 }
-.cid-tTsaWVBPZo .mbr-section-title {
-  color: #ffd7ef;
+.cid-tTCpWi7NW5 .mbr-text {
+  color: #000000;
 }
-.cid-tTsaWVBPZo .mbr-text,
-.cid-tTsaWVBPZo .mbr-section-btn {
+.cid-tTCq5a9voF {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #260a30;
+}
+.cid-tTCq5a9voF .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tTCq5a9voF .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tTCq5a9voF .mbr-section-title {
   color: #ffd7ef;
 }
