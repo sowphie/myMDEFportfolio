@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "atlasofweaksignals.html",
+    "currentPage": "themachineparadox.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -8671,10 +8671,11 @@
         }
       ]
     },
-    "page7.html": {
+    "error.html": {
       "settings": {
         "title": "Error",
-        "order": "1"
+        "order": "1",
+        "meta_descr": ""
       },
       "components": [
         {
