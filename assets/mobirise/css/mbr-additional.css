@@ -127,7 +127,7 @@ body {
   background-color: #ffaac7 !important;
 }
 .bg-danger {
-  background-color: #1b8f7e !important;
+  background-color: #f0fe23 !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -241,9 +241,9 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #1b8f7e !important;
-  border-color: #1b8f7e !important;
-  color: #ffffff !important;
+  background-color: #f0fe23 !important;
+  border-color: #f0fe23 !important;
+  color: #202200 !important;
   box-shadow: none;
 }
 .btn-danger:hover,
@@ -251,15 +251,15 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: inherit;
-  background-color: #23baa4 !important;
-  border-color: #23baa4 !important;
+  background-color: #f3fe56 !important;
+  border-color: #f3fe56 !important;
   box-shadow: none;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
-  color: #ffffff !important;
-  background-color: #23baa4 !important;
-  border-color: #23baa4 !important;
+  color: #202200 !important;
+  background-color: #f3fe56 !important;
+  border-color: #f3fe56 !important;
 }
 .btn-white,
 .btn-white:active {
@@ -413,23 +413,23 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background-color: transparent !important;
-  border-color: #1b8f7e;
-  color: #1b8f7e;
+  border-color: #f0fe23;
+  color: #f0fe23;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
-  color: #0d463e !important;
+  color: #bdc901 !important;
   background-color: transparent !important;
-  border-color: #0d463e !important;
+  border-color: #bdc901 !important;
   box-shadow: none !important;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
-  color: #ffffff !important;
-  background-color: #1b8f7e !important;
-  border-color: #1b8f7e !important;
+  color: #202200 !important;
+  background-color: #f0fe23 !important;
+  border-color: #f0fe23 !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -489,7 +489,7 @@ body {
   color: #ffaac7 !important;
 }
 .text-danger {
-  color: #1b8f7e !important;
+  color: #f0fe23 !important;
 }
 .text-white {
   color: #fafafa !important;
@@ -525,7 +525,7 @@ a.text-warning.active {
 a.text-danger:hover,
 a.text-danger:focus,
 a.text-danger.active {
-  color: #0b3932 !important;
+  color: #aeba01 !important;
 }
 a.text-white:hover,
 a.text-white:focus,
@@ -566,7 +566,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   background-color: #ffaac7;
 }
 .alert-danger {
-  background-color: #1b8f7e;
+  background-color: #f0fe23;
 }
 .mbr-gallery-filter li.active .btn {
   background-color: #0225ac;
@@ -598,7 +598,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #4cddc8;
+  color: #feffee;
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
@@ -2017,7 +2017,7 @@ a {
 .cid-tIsj2q7oBw {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #ffeb69;
+  background-color: #bcef9b;
 }
 .cid-tIsj2q7oBw .mbr-fallback-image.disabled {
   display: none;
@@ -2033,7 +2033,7 @@ a {
 }
 .cid-tIsj2q7oBw .card-wrapper {
   overflow: hidden;
-  background: #0225ac;
+  background: #8c87d2;
 }
 .cid-tIsj2q7oBw .text-wrapper {
   padding: 4rem 3rem;
@@ -2056,19 +2056,19 @@ a {
 }
 .cid-tIsj2q7oBw img,
 .cid-tIsj2q7oBw .image-wrapper {
-  height: 500px;
+  height: 700px;
   border-radius: 2rem;
   object-fit: cover;
 }
 .cid-tIsj2q7oBw .mbr-section-title {
-  color: #ffeb69;
+  color: #bcef9b;
 }
 .cid-tIsj2q7oBw .mbr-text {
   color: #000000;
 }
 .cid-tIsj2q7oBw .mbr-text,
 .cid-tIsj2q7oBw .mbr-section-btn {
-  color: #ffeb69;
+  color: #bcef9b;
 }
 .cid-tStQJy9cxc {
   padding-top: 4rem;
@@ -2227,7 +2227,7 @@ a {
 .cid-tStRb1R4Wf {
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: #bcef9b;
+  background-color: #f0fe23;
 }
 .cid-tStRb1R4Wf .mbr-fallback-image.disabled {
   display: none;
@@ -2281,14 +2281,14 @@ a {
   }
 }
 .cid-tStRb1R4Wf .mbr-section-title {
-  color: #bcef9b;
+  color: #f0fe23;
 }
 .cid-tStRb1R4Wf .mbr-text {
   color: #000000;
 }
 .cid-tStRb1R4Wf .mbr-text,
 .cid-tStRb1R4Wf .mbr-section-btn {
-  color: #9fe870;
+  color: #f0fe23;
 }
 .cid-tULrYrxqIr {
   z-index: 1000;
