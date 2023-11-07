@@ -26,7 +26,7 @@ button {
 
 .carousel .close,
 .modalWindow .close {
-  background-color: #edefea !important;
+  -color: #edefea !important;
   color: #464845 !important;
   border-color: #edefea !important;
   opacity: 0.8 !important;
@@ -170,7 +170,7 @@ section .mbr-background-video-preview {
 }
 
 .mbr-bg-black {
-  background-color: #000000;
+  background-color: #edefea;
 }
 
 /*! Text-aligns */
