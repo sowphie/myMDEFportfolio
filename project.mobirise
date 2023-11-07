@@ -1790,7 +1790,7 @@
               "color": "#20044f"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#0225ac"
+              "color": "#20044f"
             },
             ".media-content, .mbr-figure": {
               "align-self": "center"
