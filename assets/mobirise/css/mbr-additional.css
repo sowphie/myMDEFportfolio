@@ -21489,7 +21489,7 @@ a {
 }
 .cid-u5jJ1c94z1 {
   padding-top: 9rem;
-  padding-bottom: 6rem;
+  padding-bottom: 4rem;
   background: #9010f1;
 }
 .cid-u5jJ1c94z1 .mbr-fallback-image.disabled {
@@ -21615,7 +21615,7 @@ a {
 }
 .cid-u5jJ1c94z1 .card-title3,
 .cid-u5jJ1c94z1 .social-row {
-  color: #232323;
+  color: #9010f1;
 }
 .cid-u5jJ1c94z1 .card-title4,
 .cid-u5jJ1c94z1 .social-row {
@@ -21648,6 +21648,20 @@ a {
 .cid-u5jJ1c94z1 .card-text2,
 .cid-u5jJ1c94z1 .card2 .mbr-section-btn {
   color: #2cf9b7;
+}
+.cid-u8CKHTw44W {
+  padding-top: 0rem;
+  padding-bottom: 5rem;
+  background-color: #9010f1;
+}
+.cid-u8CKHTw44W .mbr-text {
+  color: #ffeb69;
+}
+.cid-u8CKHTw44W .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-u8CKHTw44W .mbr-section-title {
+  color: #ffeb69;
 }
 .cid-u5kq6wxRtI {
   z-index: 1000;
@@ -28615,6 +28629,9 @@ a {
 .cid-u5k5jy9l8V .row {
   flex-direction: row-reverse;
 }
+.cid-u5k5jy9l8V .mbr-description {
+  color: #f92c50;
+}
 .cid-u8ynS0jVfw {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -28673,7 +28690,7 @@ a {
   }
 }
 .cid-u8ypI13WCE {
-  padding-top: 6rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #1b17a7;
 }
@@ -28693,7 +28710,7 @@ a {
   color: #f92c50;
 }
 .cid-u8ClLaALDA {
-  padding-top: 6rem;
+  padding-top: 3rem;
   padding-bottom: 0rem;
   background-color: #1b17a7;
 }
@@ -28712,8 +28729,12 @@ a {
 .cid-u8ClLaALDA .content-head {
   max-width: 800px;
 }
+.cid-u8ClLaALDA .mbr-text,
+.cid-u8ClLaALDA .mbr-section-btn {
+  color: #f92c50;
+}
 .cid-u8ypCfIdkB {
-  padding-top: 6rem;
+  padding-top: 2rem;
   padding-bottom: 6rem;
   background-color: #1b17a7;
 }
@@ -28753,7 +28774,7 @@ a {
 }
 .cid-u8ypCfIdkB .mbr-text,
 .cid-u8ypCfIdkB .mbr-section-btn {
-  color: #000000;
+  color: #1b17a7;
 }
 .cid-u8ypCfIdkB .card-title,
 .cid-u8ypCfIdkB .card-box {
@@ -28835,7 +28856,7 @@ a {
   color: #0225ac;
 }
 .cid-u8yoVpG3Fb {
-  padding-top: 8rem;
+  padding-top: 0rem;
   padding-bottom: 8rem;
   background-color: #1b17a7;
 }
@@ -28877,5 +28898,5 @@ a {
 }
 .cid-u8yoVpG3Fb .mbr-text,
 .cid-u8yoVpG3Fb .mbr-section-btn {
-  color: #000000;
+  color: #f92c50;
 }
